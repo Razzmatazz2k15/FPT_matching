@@ -1,0 +1,8 @@
+# External dependencies for your project
+pandas==1.5.3
+numpy==1.23.0
+torch==1.13.0
+transformers==4.27.0
+sentence-transformers==2.2.2
+rapidfuzz==2.13.7
+user-agents==2.2.0
